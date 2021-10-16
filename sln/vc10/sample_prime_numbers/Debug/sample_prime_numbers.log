@@ -1,0 +1,2 @@
+﻿sample_prime_numbers.obj : warning LNK4075: не учитывается "/EDITANDCONTINUE" из-за спецификации "/SAFESEH"
+  sample_prime_numbers.vcxproj -> D:\MyCpp\Lessons\Arina_Polyakova\BitSet_lab\sln\vc10\Debug\sample_prime_numbers.exe
